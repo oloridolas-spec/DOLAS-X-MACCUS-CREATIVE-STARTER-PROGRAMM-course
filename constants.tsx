@@ -72,6 +72,6 @@ export const MARQUEE_ITEMS = [
   'BLENDER 3D', 'AFTER EFFECTS', 'PREMIERE PRO', 'CINEMA 4D', 'DAVINCI RESOLVE', 'UNREAL ENGINE', 'CAPCUT PC', 'MAYA'
 ];
 
-export const WHATSAPP_NUMBER = "2348000000000"; // Replace with actual number
+export const WHATSAPP_NUMBER = "2349037096589"; 
 export const FORMSPREE_FORM_ID = '01463719ef8e4211aabb759a14e1290a';
 export const FORMSPREE_SIGNIN_ENDPOINT = 'https://formspree.io/f/xldklvld';
